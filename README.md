@@ -1,2 +1,15 @@
-# diabetes-prediction-webapp
-A machine learning-powered web application built with Flask that predicts the likelihood of diabetes based on health parameters like glucose, BMI, insulin levels, and more.
+
+# Diabetes Prediction System
+
+Machine Learning web application built using Streamlit and Random Forest.
+
+## Features
+- Diabetes risk prediction
+- Probability score
+- Interactive user interface
+
+## Tech Stack
+- Python
+- Streamlit
+- Scikit-Learn
+- Joblib
