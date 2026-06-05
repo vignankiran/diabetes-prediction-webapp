@@ -27,7 +27,7 @@ st.markdown(
 # -----------------------------
 @st.cache_data
 def load_data():
-    df = pd.read_excel("diabetes.csv")
+    df = pd.read_csv("diabetes.csv")
     return df
 
 df = load_data()
