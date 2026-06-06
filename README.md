@@ -13,3 +13,5 @@ Machine Learning web application built using Streamlit and Random Forest.
 - Streamlit
 - Scikit-Learn
 - Joblib
+## Live Demo
+https://diabetes-prediction-webapp-by-vignankirangali.streamlit.app/
